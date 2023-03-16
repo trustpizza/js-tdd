@@ -7,4 +7,5 @@ test("Inputting array return object with average, min, max, and length", () => {
         max: 8,
         length: 6
     })
-})
+});
+
